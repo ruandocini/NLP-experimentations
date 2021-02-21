@@ -1,5 +1,4 @@
-# Wikidata-projects
-Experimental NLP with data from wiki
+Experimental NLP
 
 
 #### Word frequency 
